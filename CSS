@@ -1,6 +1,16 @@
-background-blue
-background color-#bf24ff
-font-Times New Roman
-font color-#d674ff
+div {
+attribute: value;
+display: 
+margin: 150%, 20px, 13pt
 
+p{
+
+
+font-family: "Times New Roman"
+color:#d674ff;
+font size: 18px
+}
+border-style: straight line
+border-color-#bf24ff
+border-width-15px
 }
